@@ -145,3 +145,6 @@ TLS: Yes
 You now have a secure, production-grade, HA n8n instance running with minimal effort. For support, raise a GitHub issue or contact the IT team.
 
 Thanks!
+
+Originally developed by Jack Gillians for internal CORDE use.
+Maintained by the CORDE IT team.
