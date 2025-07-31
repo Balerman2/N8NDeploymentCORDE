@@ -1,0 +1,21 @@
+# Ignore secrets and runtime data
+.env
+
+# Editor files
+*.swp
+*.swo
+
+# Backup dumps
+/backups/
+*.sql
+
+# Docker state
+acme.json
+*.pid
+
+# System folders
+node_modules/
+__pycache__/
+.DS_Store
+.idea/
+.vscode/
